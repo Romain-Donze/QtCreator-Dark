@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<style-scheme version="1.0" name="Flat Dark Custom">
+  <style name="Text" foreground="#bee4ee" background="#2e3436"/>
+  <style name="Link" foreground="#8282ff"/>
+  <style name="Selection" foreground="#f0f0f0" background="#308cc6"/>
+  <style name="LineNumber" foreground="#9f9f9f" background="#272d2f"/>
+  <style name="SearchResult" background="#e8e285"/>
+  <style name="SearchResultAlt1" foreground="#000033" background="#b6ccff"/>
+  <style name="SearchResultAlt2" foreground="#330000" background="#ffb6cc"/>
+  <style name="SearchScope" background="#f5f9fc"/>
+  <style name="Parentheses" foreground="#ff0000" background="#7ca47c"/>
+  <style name="ParenthesesMismatch" background="#ffa1ff"/>
+  <style name="AutoComplete" foreground="#000080" background="#c0c0ff"/>
+  <style name="CurrentLine" background="#778792"/>
+  <style name="CurrentLineNumber" foreground="#808080" bold="true"/>
+  <style name="Occurrences" background="#848484"/>
+  <style name="Occurrences.Unused" underlineColor="#808000" underlineStyle="SingleUnderline"/>
+  <style name="Occurrences.Rename" background="#ff6464"/>
+  <style name="Number" foreground="#9f9fd2"/>
+  <style name="String" foreground="#6cab6c"/>
+  <style name="Type" foreground="#be5ebe"/>
+  <style name="Local" foreground="#708db8"/>
+  <style name="Parameter" foreground="#708db8"/>
+  <style name="Global" foreground="#ce986d"/>
+  <style name="Field" foreground="#be6464"/>
+  <style name="Static" foreground="#be5ebe" italic="true"/>
+  <style name="VirtualMethod" foreground="#4e94a2" italic="true"/>
+  <style name="Function" foreground="#4e94a2"/>
+  <style name="Keyword" foreground="#c7c776"/>
+  <style name="PrimitiveType" foreground="#c7c776"/>
+  <style name="Operator"/>
+  <style name="Overloaded Operator" foreground="#4e94a2"/>
+  <style name="Punctuation"/>
+  <style name="Preprocessor" foreground="#5959b6"/>
+  <style name="Label" foreground="#be6464"/>
+  <style name="Comment" foreground="#a8d7a8"/>
+  <style name="Doxygen.Comment" foreground="#5959b6"/>
+  <style name="Doxygen.Tag" foreground="#0000ff"/>
+  <style name="VisualWhitespace" foreground="#c0c0c0"/>
+  <style name="QmlLocalId" italic="true"/>
+  <style name="QmlExternalId" foreground="#9393d0" italic="true"/>
+  <style name="QmlTypeId" foreground="#be5ebe"/>
+  <style name="QmlRootObjectProperty" italic="true"/>
+  <style name="QmlScopeObjectProperty" italic="true"/>
+  <style name="QmlExternalObjectProperty" foreground="#9393d0" italic="true"/>
+  <style name="JsScopeVar" foreground="#83aac7" italic="true"/>
+  <style name="JsImportVar" foreground="#5d85af" italic="true"/>
+  <style name="JsGlobalVar" foreground="#5d85af" italic="true"/>
+  <style name="QmlStateName" italic="true"/>
+  <style name="Binding" foreground="#be6464"/>
+  <style name="DisabledCode" background="#596569"/>
+  <style name="AddedLine" foreground="#00aa00"/>
+  <style name="RemovedLine" foreground="#ff0000"/>
+  <style name="DiffFile" foreground="#5959b6"/>
+  <style name="DiffLocation" foreground="#0000ff"/>
+  <style name="DiffFileLine" background="#ffff00"/>
+  <style name="DiffContextLine" background="#afd7e7"/>
+  <style name="DiffSourceLine" background="#ffdfdf"/>
+  <style name="DiffSourceChar" background="#ffafaf"/>
+  <style name="DiffDestLine" background="#dfffdf"/>
+  <style name="DiffDestChar" background="#afffaf"/>
+  <style name="LogChangeLine" foreground="#c00000"/>
+  <style name="LogAuthorName" foreground="#007af4"/>
+  <style name="LogCommitDate" foreground="#006600"/>
+  <style name="LogCommitHash" foreground="#ff0000"/>
+  <style name="LogCommitSubject"/>
+  <style name="LogDecoration" foreground="#ff00ff"/>
+  <style name="Warning" underlineColor="#ffbe00" underlineStyle="SingleUnderline"/>
+  <style name="WarningContext" underlineColor="#ffbe00" underlineStyle="DotLine"/>
+  <style name="Error" underlineColor="#ff0000" underlineStyle="SingleUnderline"/>
+  <style name="ErrorContext" underlineColor="#ff0000" underlineStyle="DotLine"/>
+  <style name="Declaration" bold="true"/>
+  <style name="FunctionDefinition"/>
+  <style name="OutputArgument" italic="true"/>
+</style-scheme>
