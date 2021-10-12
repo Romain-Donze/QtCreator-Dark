@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <style-scheme version="1.0" name="Flat Dark Custom">
-  <style name="Text" foreground="#bee4ee" background="#2e3436"/>
+  <style name="Text" foreground="#dbeaee" background="#2e3436"/>
   <style name="Link" foreground="#8282ff"/>
   <style name="Selection" foreground="#f0f0f0" background="#308cc6"/>
   <style name="LineNumber" foreground="#9f9f9f" background="#272d2f"/>
-  <style name="SearchResult" background="#e8e285"/>
+  <style name="SearchResult" background="#b2ae66"/>
   <style name="SearchResultAlt1" foreground="#000033" background="#b6ccff"/>
   <style name="SearchResultAlt2" foreground="#330000" background="#ffb6cc"/>
-  <style name="SearchScope" background="#f5f9fc"/>
+  <style name="SearchScope" background="#b2b5b7"/>
   <style name="Parentheses" foreground="#ff0000" background="#7ca47c"/>
   <style name="ParenthesesMismatch" background="#ffa1ff"/>
   <style name="AutoComplete" foreground="#000080" background="#c0c0ff"/>
@@ -35,15 +35,15 @@
   <style name="Label" foreground="#be6464"/>
   <style name="Comment" foreground="#a8d7a8"/>
   <style name="Doxygen.Comment" foreground="#5959b6"/>
-  <style name="Doxygen.Tag" foreground="#0000ff"/>
+  <style name="Doxygen.Tag" foreground="#7070ff"/>
   <style name="VisualWhitespace" foreground="#c0c0c0"/>
-  <style name="QmlLocalId" italic="true"/>
+  <style name="QmlLocalId" foreground="#73c1ee" italic="true"/>
   <style name="QmlExternalId" foreground="#9393d0" italic="true"/>
   <style name="QmlTypeId" foreground="#be5ebe"/>
-  <style name="QmlRootObjectProperty" italic="true"/>
+  <style name="QmlRootObjectProperty" foreground="#a4d4ee" italic="true"/>
   <style name="QmlScopeObjectProperty" italic="true"/>
   <style name="QmlExternalObjectProperty" foreground="#9393d0" italic="true"/>
-  <style name="JsScopeVar" foreground="#83aac7" italic="true"/>
+  <style name="JsScopeVar" foreground="#5d9ac7" italic="true"/>
   <style name="JsImportVar" foreground="#5d85af" italic="true"/>
   <style name="JsGlobalVar" foreground="#5d85af" italic="true"/>
   <style name="QmlStateName" italic="true"/>
