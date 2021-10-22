@@ -4,7 +4,7 @@
   <style name="Link" foreground="#8282ff"/>
   <style name="Selection" foreground="#f0f0f0" background="#308cc6"/>
   <style name="LineNumber" foreground="#9f9f9f" background="#272d2f"/>
-  <style name="SearchResult" background="#b2ae66"/>
+  <style name="SearchResult" background="#8c8621"/>
   <style name="SearchResultAlt1" foreground="#000033" background="#b6ccff"/>
   <style name="SearchResultAlt2" foreground="#330000" background="#ffb6cc"/>
   <style name="SearchScope" background="#b2b5b7"/>
@@ -18,28 +18,28 @@
   <style name="Occurrences.Rename" background="#ff6464"/>
   <style name="Number" foreground="#9f9fd2"/>
   <style name="String" foreground="#6cab6c"/>
-  <style name="Type" foreground="#be5ebe"/>
-  <style name="Local" foreground="#708db8"/>
-  <style name="Parameter" foreground="#708db8"/>
+  <style name="Type" foreground="#d57dd5"/>
+  <style name="Local" foreground="#9fbae1"/>
+  <style name="Parameter" foreground="#9fbae1"/>
   <style name="Global" foreground="#ce986d"/>
-  <style name="Field" foreground="#be6464"/>
-  <style name="Static" foreground="#be5ebe" italic="true"/>
-  <style name="VirtualMethod" foreground="#4e94a2" italic="true"/>
-  <style name="Function" foreground="#4e94a2"/>
+  <style name="Field" foreground="#da9393"/>
+  <style name="Static" foreground="#d57dd5" italic="true"/>
+  <style name="VirtualMethod" foreground="#84cad8" italic="true"/>
+  <style name="Function" foreground="#84cad8"/>
   <style name="Keyword" foreground="#c7c776"/>
   <style name="PrimitiveType" foreground="#c7c776"/>
   <style name="Operator"/>
   <style name="Overloaded Operator" foreground="#4e94a2"/>
   <style name="Punctuation"/>
-  <style name="Preprocessor" foreground="#5959b6"/>
+  <style name="Preprocessor" foreground="#8080c8"/>
   <style name="Label" foreground="#be6464"/>
   <style name="Comment" foreground="#a8d7a8"/>
-  <style name="Doxygen.Comment" foreground="#5959b6"/>
+  <style name="Doxygen.Comment" foreground="#8080c8"/>
   <style name="Doxygen.Tag" foreground="#7070ff"/>
   <style name="VisualWhitespace" foreground="#c0c0c0"/>
   <style name="QmlLocalId" foreground="#73c1ee" italic="true"/>
   <style name="QmlExternalId" foreground="#9393d0" italic="true"/>
-  <style name="QmlTypeId" foreground="#be5ebe"/>
+  <style name="QmlTypeId" foreground="#d57dd5"/>
   <style name="QmlRootObjectProperty" foreground="#a4d4ee" italic="true"/>
   <style name="QmlScopeObjectProperty" italic="true"/>
   <style name="QmlExternalObjectProperty" foreground="#9393d0" italic="true"/>
@@ -47,8 +47,8 @@
   <style name="JsImportVar" foreground="#5d85af" italic="true"/>
   <style name="JsGlobalVar" foreground="#5d85af" italic="true"/>
   <style name="QmlStateName" italic="true"/>
-  <style name="Binding" foreground="#be6464"/>
-  <style name="DisabledCode" background="#596569"/>
+  <style name="Binding" foreground="#da9393"/>
+  <style name="DisabledCode" foreground="#d3d7cf" background="#596569"/>
   <style name="AddedLine" foreground="#00aa00"/>
   <style name="RemovedLine" foreground="#ff0000"/>
   <style name="DiffFile" foreground="#5959b6"/>
