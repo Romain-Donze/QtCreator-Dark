@@ -7,6 +7,7 @@
   <style name="SearchResult" background="#8c8621"/>
   <style name="SearchResultAlt1" foreground="#000033" background="#b6ccff"/>
   <style name="SearchResultAlt2" foreground="#330000" background="#ffb6cc"/>
+  <style name="SearchResultContainingFunction" foreground="#000000" background="#ffffff"/>
   <style name="SearchScope" background="#b2b5b7"/>
   <style name="Parentheses" foreground="#ff0000" background="#7ca47c"/>
   <style name="ParenthesesMismatch" background="#ffa1ff"/>
@@ -33,6 +34,7 @@
   <style name="Overloaded Operator" foreground="#4e94a2"/>
   <style name="Punctuation"/>
   <style name="Preprocessor" foreground="#8080c8"/>
+  <style name="Macro" foreground="#8080c8"/>
   <style name="Label" foreground="#be6464"/>
   <style name="Comment" foreground="#a8d7a8"/>
   <style name="Doxygen.Comment" foreground="#8080c8"/>
@@ -74,4 +76,14 @@
   <style name="FunctionDefinition"/>
   <style name="OutputArgument" italic="true"/>
   <style name="StaticMember"/>
+  <style name="CocoCodeAdded"/>
+  <style name="CocoPartiallyCovered" foreground="#808000"/>
+  <style name="CocoNotCovered" foreground="#ff0000"/>
+  <style name="CocoFullyCovered" foreground="#00ff00"/>
+  <style name="CocoManuallyValidated" foreground="#0000ff"/>
+  <style name="CocoDeadCode" foreground="#ff00ff"/>
+  <style name="CocoExecutionCountTooLow" foreground="#ff0000"/>
+  <style name="CocoNotCoveredInfo" foreground="#ff0000"/>
+  <style name="CocoCoveredInfo" foreground="#00ff00"/>
+  <style name="CocoManuallyValidatedInfo" foreground="#0000ff"/>
 </style-scheme>
