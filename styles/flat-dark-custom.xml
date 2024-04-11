@@ -29,7 +29,7 @@
   <style name="Static" foreground="#d57dd5" italic="true"/>
   <style name="VirtualMethod" foreground="#84cad8" italic="true"/>
   <style name="Function" foreground="#84cad8"/>
-  <style name="Keyword" foreground="#c7c776" italic="true"/>
+  <style name="Keyword" foreground="#c7c776"/>
   <style name="PrimitiveType" foreground="#c7c776"/>
   <style name="Operator"/>
   <style name="Overloaded Operator" foreground="#4e94a2"/>
